@@ -1,2 +1,2 @@
 # split_quaternion
-Split Quaternion numpy package
+Split Quaternion package, originally based upon the Quaternionic library.
