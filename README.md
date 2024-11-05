@@ -1,7 +1,7 @@
 (DISCLAIMER: THIS PACKAGE IS UNDERCONSTRUCTION. Hopefully one day I will find the time to package it properly and add a full documentation)
 
 # split_quaternion
-Split Quaternion package, originally based upon the Quaternionic library.
+Split Quaternion package, a fork of the Quaternionic library.
 
 ## Quick initiation to split quaternions
 Split quaternions are a 4-dimensional associative and non-commutative algebra, where each element $q\in\mathbb{S}$ is written in the form
