@@ -30,10 +30,10 @@ The addition and multiplication reads
 ## Using the package
 This package extends most numpy functionnalities with matrices of split quaternions.
 
-`import split_quaternions as sq
-p1 = sq.ones((10, 10))
-p2 = sq.zeros((10, 10))
-q = sq.array([[1,2,3,4], [-1, -2, -3, -4]])
-q.conj  # equivalent to q.conjugate
-q.modulus  # equivalent to q.norm`
+`import split_quaternions as sq`
+`p1 = sq.ones((10, 10))`
+`p2 = sq.zeros((10, 10))`
+`q = sq.array([[1,2,3,4], [-1, -2, -3, -4]])`
+`q.conj  # equivalent to q.conjugate`
+`q.modulus  # equivalent to q.norm`
 
